@@ -1,5 +1,5 @@
 ### Hi there 👋, i'm Andrey!
-#### I am Junior Front-end Developer
+#### Junior Front-end Developer
 
 Skills: JavaScript, React, HTML, CSS, Git, Webpack.
 
